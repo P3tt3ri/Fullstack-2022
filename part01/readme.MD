@@ -1,1 +1,1 @@
-Created this because it seems you can't create a folder on GitHub. 
+Created this because it seems you can't create an empty folder on GitHub. 
