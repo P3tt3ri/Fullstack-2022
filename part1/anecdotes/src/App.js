@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
-const arrSize = 7
 
+const arrSize = 7
 const randomAnecdoteIndex = (max) => {
   return Math.floor(Math.random() * max)
 //  console.log(an_index)
